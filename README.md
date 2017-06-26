@@ -1,5 +1,4 @@
 # VKMultimediaDownloader
-Download music and video from vk.com
 
 Start window
 <br />
@@ -13,11 +12,11 @@ User video
 <br />
 ![image](https://user-images.githubusercontent.com/26405989/27563777-5028399c-5adc-11e7-902c-240a8015967b.png)
 
-Download video, which stored on Youtube
+Downloading video, which stored on Youtube
 <br />
 ![image](https://user-images.githubusercontent.com/26405989/27563783-58d7fa0a-5adc-11e7-85d0-6f4c184b0457.png)
 
-Download video, which stored in VK
+Downloading video, which stored in VK
 <br />
 ![image](https://user-images.githubusercontent.com/26405989/27563796-6f7c38ac-5adc-11e7-8463-17d06dd363b3.png)
 
